@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="background">#596f87</color>
+    
+    <color name="cc_spectrum0">#2845b3</color>
+    <color name="cc_spectrum1">#1873a7</color>
+    <color name="cc_spectrum2">#298d6d</color>
+    <color name="cc_spectrum3">#3cb732</color>
+    <color name="cc_spectrum4">#fef200</color>
+    <color name="cc_spectrum5">#fe8101</color>
+    <color name="cc_spectrum6">#ff3b00</color>
+    <color name="cc_spectrum7">#fe1703</color>
+    <color name="cc_spectrum8">#970b2c</color>
+    
+    <color name="cc_android0">#3a5fc7</color>
+    <color name="cc_android1">#71947f</color>
+    <color name="cc_android2">#85c00c</color>
+    
+    <color name="cc_off">#000000</color>
+    <color name="cc_error">#FFFFFF</color>
+</resources>

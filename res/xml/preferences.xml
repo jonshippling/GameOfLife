@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:key="ANIMATION_SPEED_VARIABLE"
+        android:title="Animation Speed"
+        android:entries="@array/animation_speed_options" 
+        android:entryValues="@array/animation_speed_values"
+        android:dialogTitle="Animation Speed" 
+        android:defaultValue="3" />
+    <ListPreference android:key="COLOR_CODE_VARIABLE"
+        android:title="Color Coding"
+        android:summary="@string/color_coding_summary"
+        android:entries="@array/color_coding_options" 
+        android:entryValues="@array/color_coding_values"
+        android:dialogTitle="Color Coding" 
+        android:defaultValue="0" />
+</PreferenceScreen>
